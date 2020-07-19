@@ -1,0 +1,30 @@
+.modal-ajuste {
+    z-index: -1;
+  }
+
+
+  
+
+.hoverButton:hover {
+    background-color:rgb(16, 119, 188);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.40), 0 10px 10px rgba(0,0,0,0.40);
+
+    
+}
+
+.hoverClose:hover{
+  cursor: pointer;
+}
+
+#desabilitarBotao{
+  
+  cursor: unset;
+}
+
+.heigth {
+  height: 80%;
+}
+
+.margin-10P {
+  margin-top: 10%;
+}

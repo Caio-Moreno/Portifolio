@@ -1,0 +1,199 @@
+[03-Dec-2019 21:16:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home2/lucasg61/public_html/processa_envio.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/lucasg61/public_html/processa_envio.php on line 44
+[03-Dec-2019 21:18:15 America/Fortaleza] PHP Warning:  require(../../app_send_mail/bibliotecas/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:18:15 America/Fortaleza] PHP Warning:  require(../../app_send_mail/bibliotecas/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:18:15 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '../../app_send_mail/bibliotecas/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:25:25 America/Fortaleza] PHP Warning:  require(./app_send_mail/bibliotecas/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:25:25 America/Fortaleza] PHP Warning:  require(./app_send_mail/bibliotecas/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:25:25 America/Fortaleza] PHP Fatal error:  require(): Failed opening required './app_send_mail/bibliotecas/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:27:26 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:27:26 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:27:26 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'public_html/app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:30:24 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:30:24 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:30:24 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'public_html/app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:39:00 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:39:00 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:39:00 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'public_html/app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:39:47 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:39:47 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:39:47 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'public_html/app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:40:46 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:40:46 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:40:46 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'public_html/app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:40:56 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:40:56 America/Fortaleza] PHP Warning:  require(public_html/app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:40:56 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'public_html/app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:41:30 America/Fortaleza] PHP Warning:  require(./app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:41:30 America/Fortaleza] PHP Warning:  require(./app_send_email/biblioteca/PHPMailer/Exception.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:41:30 America/Fortaleza] PHP Fatal error:  require(): Failed opening required './app_send_email/biblioteca/PHPMailer/Exception.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/processa_envio.php on line 3
+[03-Dec-2019 21:53:15 America/Fortaleza] PHP Warning:  require(/home/usuario/diretoriodeinstalação/PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/enviar.php on line 2
+[03-Dec-2019 21:53:15 America/Fortaleza] PHP Warning:  require(/home/usuario/diretoriodeinstalação/PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home2/lucasg61/public_html/enviar.php on line 2
+[03-Dec-2019 21:53:15 America/Fortaleza] PHP Fatal error:  require(): Failed opening required '/home/usuario/diretoriodeinstalação/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/php71/lib/php') in /home2/lucasg61/public_html/enviar.php on line 2
+[03-Dec-2019 21:54:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:2019
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1838): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1581): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 3 De...', 'Escreva o texto...')
+#2 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1417): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/lucasg61/public_html/enviar.php(18): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 2019
+[03-Dec-2019 22:45:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/lucasg61/public_html/enviar.php:35) in /home2/lucasg61/public_html/enviar.php on line 36
+[03-Dec-2019 22:45:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/lucasg61/public_html/enviar.php:35) in /home2/lucasg61/public_html/enviar.php on line 36
+[03-Dec-2019 22:46:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/lucasg61/public_html/enviar.php:35) in /home2/lucasg61/public_html/enviar.php on line 36
+[03-Dec-2019 23:01:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/lucasg61/public_html/enviar.php:35) in /home2/lucasg61/public_html/enviar.php on line 36
+[03-Dec-2019 23:07:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}' in /home2/lucasg61/public_html/enviar.php on line 57
+[04-Dec-2019 07:28:23 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/lucasg61/public_html/enviar.php on line 65
+[04-Dec-2019 07:28:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home2/lucasg61/public_html/enviar.php on line 21
+[04-Dec-2019 07:30:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/enviar.php on line 21
+[04-Dec-2019 07:34:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(56): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:35:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(56): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:35:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(56): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:35:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(55): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:35:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(55): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:36:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(55): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:40:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(56): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:40:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(56): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:42:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'Mensagem' (T_STRING), expecting ',' or ')' in /home2/lucasg61/public_html/enviar.php on line 21
+[04-Dec-2019 07:42:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/enviar.php on line 22
+[04-Dec-2019 07:44:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/enviar.php on line 21
+[04-Dec-2019 07:45:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:46:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:46:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/lucasg61/public_html/enviar.php on line 72
+[04-Dec-2019 07:48:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home2/lucasg61/public_html/enviar.php on line 21
+[04-Dec-2019 07:49:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:49:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:50:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:52:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 07:54:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 08:06:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'width' (T_STRING) in /home2/lucasg61/public_html/enviar.php on line 21
+[04-Dec-2019 08:06:58 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'Aqui' (T_STRING) in /home2/lucasg61/public_html/enviar.php on line 22
+[04-Dec-2019 08:33:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(68): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 11:43:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 12:05:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home2/lucasg61/public_html/enviar.php on line 20
+[04-Dec-2019 12:05:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home2/lucasg61/public_html/enviar.php on line 20
+[04-Dec-2019 12:09:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(59): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 12:11:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(63): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[04-Dec-2019 12:13:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php:1508
+Stack trace:
+#0 /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php(1413): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/lucasg61/public_html/enviar.php(63): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home2/lucasg61/public_html/PHPMailer-master/src/PHPMailer.php on line 1508
+[09-Dec-2019 22:21:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/sendmail.php on line 48
+[09-Dec-2019 22:27:15 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/sendmail.php on line 48
+[09-Dec-2019 22:27:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/sendmail.php on line 48
+[09-Dec-2019 22:27:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home2/lucasg61/public_html/sendmail.php on line 48
+[10-Dec-2019 12:55:23 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[10-Dec-2019 13:01:25 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[10-Dec-2019 13:02:13 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[10-Dec-2019 13:12:38 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[10-Dec-2019 13:13:51 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[10-Dec-2019 13:16:25 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[10-Dec-2019 15:13:39 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[11-Dec-2019 18:10:13 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[12-Dec-2019 22:43:32 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[18-Dec-2019 08:08:50 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1909
+[18-Dec-2019 08:08:50 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1909
+[18-Dec-2019 08:08:50 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[18-Dec-2019 17:41:03 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[19-Dec-2019 12:53:01 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[26-Dec-2019 21:13:30 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
+[02-Jan-2020 17:16:04 America/Fortaleza] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home2/lucasg61/public_html/PHPMailer_5.2.1/class.phpmailer.php on line 1918
