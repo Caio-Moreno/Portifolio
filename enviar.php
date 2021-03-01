@@ -22,16 +22,16 @@ class Mensagem {
 		
 			if(empty($this->para)) {
 			echo("<script> alert('Preencha os campos corretamente.');
-			window.location.href = 'https://lucasgimenes.com.br';
+			window.location.href = 'https://caiomoreno.com';
 			      </script>");	
 				 
 			} else if(empty($this->assunto)){
 			echo("<script> alert('Preencha o assunto.');
-			window.location.href = 'https://lucasgimenes.com.br';
+			window.location.href = 'https://caiomoreno.com';
 			      </script>");
 			} else if(empty($this->mensagem)){
 			echo("<script> alert('Preencha a mensagem.');
-			window.location.href = 'https://lucasgimenes.com.br';
+			window.location.href = 'https://caiomoreno.com';
 			      </script>");
 			}
 
@@ -56,7 +56,7 @@ $mail->IsSMTP(); // enable SMTP
  $mail->SMTPDebug = 0; // debugging: 1 = errors and messages, 2 = messages only
  $mail->SMTPAuth = true; // authentication enabled
  $mail->SMTPSecure = 'ssl'; // secure transfer enabled REQUIRED for Gmail
- $mail->Host = "mail.lucasgimenes.com.br";
+ $mail->Host = "mail.caiomoreno.com";
  $mail->Port = 465; // or 587
 
  $mail->IsHTML(true);
@@ -71,7 +71,7 @@ $mail->IsSMTP(); // enable SMTP
     ?>  
     <?php } else { ?>
     <script> alert('Mensagem enviada com sucesso');
-window.location.href = 'https://lucasgimenes.com.br';
+window.location.href = 'https://caiomoreno.com';
  </script>
 <?php
 }
